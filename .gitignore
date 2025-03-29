@@ -108,7 +108,7 @@ ipython_config.py
 # pdm
 # Semelhante ao Pipfile.lock, geralmente é recomendado incluir pdm.lock no controle de versão.
 #pdm.bloqueio
-# pdm armazena configurações de todo o projeto em .pdm.toml, mas é recomendado não incluí-lo
+
 # no controle de versão.
 # https://pdm.fming.dev/#use-with-ide
 .pdm.toml
